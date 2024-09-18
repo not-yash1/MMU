@@ -1,3 +1,4 @@
+package Sep18;
 
 // Q-1. Leetcode 
 
@@ -8,21 +9,16 @@
 // Selection Sort	        O(n²)	                 O(n²)	            O(1)
 
 
-// Smaller or equal numbers
+// Merge Sort
 
-// Lower bound
+// Quick Sort
 
-// Upper bound
+// Matrix Search
 
-// Kth element of 2 sorted arrays
+// Sqrt(x) using binary search
 
-// Square root of an integer
+// Adding 1 to given array
 
-// Merge 2 sorted arrays
+// Find pivot point in rotated array
 
-
-// Selection Sort
-
-// Bubble Sort
-
-// Insertion Sort
+// Find first and last position of target in sorted array

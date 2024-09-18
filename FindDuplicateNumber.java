@@ -26,7 +26,7 @@ public class FindDuplicateNumber {
     }
 
     public static void main(String[] args) {
-        int[] nums = {1, 3, 4, 2, 2};
+        int[] nums = {2, 3, 4, 2, 7};
         System.out.println("Duplicate number: " + findDuplicate(nums));
     }
 }
