@@ -5,8 +5,8 @@ import java.util.HashMap;
 public class ContinousSubarraySum {
 
     public static void main(String[] args) {
-        int[] arr = {1, 1, 1, 1};
-        int k = 2;
+        int[] arr = {2, 2, 4, 3, 1, 2, 4};
+        int k = 10;
         System.out.println(checkSubarraySum(arr, k));
     }
 
